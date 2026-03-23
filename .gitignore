@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Google Apps Script source files
+*.gs
+
+# Text/planning documents
+*.txt
+
+# Backup files
+*.bak
+*.backup
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Source, build tools, and database (not for public distribution)
+FlockOS-GS/Genesis/
+FlockOS-GS/Exodus/
+FlockOS-GS/Database/
